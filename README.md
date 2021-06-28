@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Recommender Systems, NLP, AI
 - 💬 Ask me about Python, Recommender Systems, NLP, etc..
 - 📫 How to reach me: nyongja@sookmyung.ac.kr
+- 💻 My Portfolio is here : https://nyongja.github.io
 
 ### My Skills
 ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![Android](https://img.shields.io/badge/-Android-green)
