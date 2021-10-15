@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on KIE
 - 🌱 I’m currently learning Recommender Systems, NLP, AI
 - 💬 Ask me about Python, Recommender Systems, NLP, etc..
-- 📫 How to reach me: nyongja@sookmyung.ac.kr
+- 📫 How to reach me: nyongjay@gmail.com
 - 💻 My Portfolio is here : https://www.notion.so/06c35161048c4de6aabe14fdb083c234
 
 ### My Skills
