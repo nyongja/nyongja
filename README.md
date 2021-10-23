@@ -1,6 +1,3 @@
-### Hi there 👋
-
-- 💬 Ask me about Python, Recommender System, etc..
 - 📫 How to reach me: nyongjay@gmail.com
 - 💻 My Portfolio is here : https://www.notion.so/06c35161048c4de6aabe14fdb083c234
 
