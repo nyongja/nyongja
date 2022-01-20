@@ -1,4 +1,5 @@
 - 📫 How to reach me: nyongjay@gmail.com
+- https://www.notion.so/nyongja/719fb3b98d5a4291be7aa391de773ba5
 
 ### My Skills
 ![Python](https://img.shields.io/badge/-Python-blue) ![CSharp](https://img.shields.io/badge/-CSharp-purple) ![C](https://img.shields.io/badge/-C-grey) ![Android](https://img.shields.io/badge/-Android-green) ![Pytorch](https://img.shields.io/badge/-Pytorch-red) ![Linux](https://img.shields.io/badge/-Linux-yellow) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-orange) ![Pandas](https://img.shields.io/badge/-Pandas-black) ![Git](https://img.shields.io/badge/-Git-black)
