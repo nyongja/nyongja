@@ -1,5 +1,5 @@
 - 📫 How to reach me: nyongjay@gmail.com
-- [MyNotion](https://www.notion.so/nyongja/719fb3b98d5a4291be7aa391de773ba5)  
+- [MyNotion](https://nyongja.notion.site/Portfolio-4aab1d76777a4baea63a7913c32eaeb9)
 - [MyBlog](https://think-tech.tistory.com)  
 
 ### My Github Stats
